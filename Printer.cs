@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace CaclPractice1
 {
-    class Program
+    public class Printer
     {
-        static void Main(string[] args)
-        {
 
-        }
     }
 }
